@@ -33,7 +33,7 @@ Your mission, should you choose to accept it, is to develop innovative algorithm
 
 ## Begin Solving:
 
-1. Implement your solution in the programming language of your choice.
+1. Implement your solution in the Java programming of your choice.
 2. Consider the primality constraint and the single-number input structure.
 
 ## Submit Your Solution:
