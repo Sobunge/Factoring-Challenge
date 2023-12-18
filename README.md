@@ -24,7 +24,7 @@ Your mission, should you choose to accept it, is to develop innovative algorithm
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/RSA-Prime-Challenge.git
+   git clone https://github.com/Sobunge/Factoring-Challenge.git
    cd RSA-Prime-Challenge
 
 ## Explore the Files:
