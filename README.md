@@ -27,3 +27,27 @@ Your mission, should you choose to accept it, is to develop innovative algorithm
    git clone https://github.com/your-username/RSA-Prime-Challenge.git
    cd RSA-Prime-Challenge
 
+## Explore the Files:
+
+- Open the `README.md` file to familiarize yourself with the challenge details and instructions.
+
+## Begin Solving:
+
+1. Implement your solution in the programming language of your choice.
+2. Consider the primality constraint and the single-number input structure.
+
+## Submit Your Solution:
+
+- Share your insights, code, and findings by submitting a pull request.
+
+## Contributing:
+
+Your contributions are welcomed and encouraged! Whether you're enhancing the problem statement, proposing optimizations, or suggesting improvements, please feel free to contribute by creating pull requests.
+
+## License:
+
+This challenge is provided under the [MIT License](LICENSE). Feel free to use, share, and modify the code for educational and non-commercial purposes.
+
+Good luck with the RSA Laboratories Challenge! May the primes be ever in your favor! 🌐🔒
+
+
